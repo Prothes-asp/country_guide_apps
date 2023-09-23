@@ -1,0 +1,16 @@
+.fntFmily{
+  font-family : "Lobster";
+}
+.txtSpace{
+  letter-spacing: 5px;
+}
+body {
+  background-color: #0bceaf;
+}
+.flag-img{
+  height: 100px;
+}
+.coatOfArm{
+  height: 100px;
+}
+
